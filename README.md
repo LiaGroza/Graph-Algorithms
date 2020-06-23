@@ -19,4 +19,4 @@ C++17 sources of some of the most common algorithms in Graph Theory.
 
 ##### © Iulia Groza
 
-<img src="https://github.com/LiaGroza/grafuri/blob/master/logo.png"/>
+<img src="https://github.com/LiaGroza/grafuri/blob/master/Graph.jpg"/>
