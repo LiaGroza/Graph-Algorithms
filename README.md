@@ -16,3 +16,5 @@ C++17 sources of some of the most common algorithms in Graph Theory.
 12. Kempe's Algorithm (calculating the chromatic number) - <b> UNSTABLE FOR BIGGER TESTS ~ dense graph with 200 or more vertices </b>
 13. Huffman Coding / Decoding
 14. Prüfer Coding / Decoding
+
+<img src="https://github.com/LiaGroza/grafuri/blob/master/logo.png"/>
