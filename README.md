@@ -17,4 +17,6 @@ C++17 sources of some of the most common algorithms in Graph Theory.
 13. Huffman Coding / Decoding
 14. Prüfer Coding / Decoding
 
+##### © Iulia Groza
+
 <img src="https://github.com/LiaGroza/grafuri/blob/master/logo.png"/>
