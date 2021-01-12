@@ -1,4 +1,7 @@
 # Graph-Algorithms
+
+## NOTE: This repo is obsolete. Go visit my "Algorithms" repository for a continuously updating list of graph algorithms (and not only).
+
 C++17 sources of some of the most common algorithms in Graph Theory.
 
 ## Index:
