@@ -1,7 +1,5 @@
 # Graph-Algorithms
 
-## NOTE: Go visit my "Algorithms" repository for a more complex, continuously updating list of algorithms.
-
 <img src="https://github.com/LiaGroza/grafuri/blob/master/Graph.jpg"/>
 
 C++17 sources of some of the most common algorithms in Graph Theory.
