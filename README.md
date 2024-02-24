@@ -1,4 +1,4 @@
-# Graph-Algorithms
+# Graph Algorithms
 
 <img src="https://github.com/LiaGroza/grafuri/blob/master/Graph.jpg"/>
 
