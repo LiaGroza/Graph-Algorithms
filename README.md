@@ -1,6 +1,8 @@
 # Graph-Algorithms
 
-## NOTE: This repo is obsolete. Go visit my "Algorithms" repository for a continuously updating list of graph algorithms (and not only).
+## NOTE: Go visit my "Algorithms" repository for a more complex, continuously updating list of algorithms.
+
+<img src="https://github.com/LiaGroza/grafuri/blob/master/Graph.jpg"/>
 
 C++17 sources of some of the most common algorithms in Graph Theory.
 
@@ -20,6 +22,4 @@ C++17 sources of some of the most common algorithms in Graph Theory.
 13. Huffman Coding / Decoding
 14. Prüfer Coding / Decoding
 
-##### © Iulia Groza
-
-<img src="https://github.com/LiaGroza/grafuri/blob/master/Graph.jpg"/>
+#### © Iulia Groza
